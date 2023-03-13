@@ -19,6 +19,9 @@ namespace PR
 
 
         }
-       
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Проверка статуса");
+        }
     }
 }
